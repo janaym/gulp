@@ -10,6 +10,10 @@ module.exports = {
         'navy': '#003975',
         'dark-navy': '001033',
       },
+      fontFamily: {
+        'poppins': ['Poppins', 'sans-serif'],
+        'jua': ['Jua', 'sans-serif']
+      },
     },
   },
   plugins: [],
