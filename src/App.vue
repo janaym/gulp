@@ -1,12 +1,11 @@
-<template>
-  <div>
-    hello gulpers!
-  </div>
-</template>
-
-<script>
-
+  
+<script setup>
+  import NavBar from './components/NavBar.vue'
 </script>
+
+<template>
+  <NavBar />
+</template>
 
 <style>
 
