@@ -8,7 +8,7 @@ module.exports = {
         'light-blue': '#E5EbF8',
         'ash-blue': '#586EA2',
         'navy': '#003975',
-        'dark-navy': '001033',
+        'dark-navy': '#001033',
       },
       fontFamily: {
         'poppins': ['Poppins', 'sans-serif'],
