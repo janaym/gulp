@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col items-center gap-4 text-light-blue p-4 bg-navy w-full">
+  <section class="flex flex-col items-center gap-4 text-light-blue p-4 w-full">
 
     <span class="font-extrabold text-2xl">Where are you?</span>
 
@@ -11,12 +11,12 @@
       use my location
     </button>
 
-    <!-- search location -->
+    <!-- search custom location -->
     <div class="relative w-1/5 flex gap-2 bg-light-blue text-navy px-4 py-1.5 rounded-full">
       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="text-dark-navy bi bi-search h-6" viewBox="0 0 16 16">
         <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/>
       </svg>
       <input class="bg-transparent flex-grow outline-none" type="text" placeholder="address / nearby landmark" />
     </div>
-  </div>
+  </section>
 </template>

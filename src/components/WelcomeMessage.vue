@@ -1,6 +1,6 @@
 <template>
-  <section class="flex-col flex gap-8 items-center mt-20">
-    <div class="text-8xl font-extrabold text-dark-navy">Thirsty?</div>
+  <section class="flex-col flex gap-8 items-center mt-5 md:mt-20 lg:mt-40">
+    <div class="text-6xl md:text-8xl lg:text-8xl font-extrabold text-dark-navy">Thirsty?</div>
     <button class="bg-ash-blue text-light-blue text-xl px-4 py-1.5 flex items-center gap-2 rounded-full hover:bg-slate-500">
       Find a water fountain
       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-down-circle" viewBox="0 0 16 16">

@@ -15,4 +15,10 @@
   * {
     font-family: 'Poppins';
   }
+
+  body {
+    background: url('~@/assets/Home.svg') no-repeat top center scroll;
+    background-size: cover;
+  }
+
 </style>

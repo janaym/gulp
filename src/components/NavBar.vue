@@ -1,5 +1,5 @@
 <template>
-  <div class="sticky top-0 flex items-center justify-between px-24 h-24 text">
+  <div class="sticky top-0 flex bg-none items-center justify-between px-24 h-24 text">
       <div class="logo flex items-center">
         <span class="text-4xl text-navy font-semibold font-jua">gulp</span>
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" class="fill-navy self-end" viewBox="0 0 16 16">
