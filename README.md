@@ -2,6 +2,10 @@
 
 Gulp is a simple web app that finds a users' nearest water fountain in Victoria BC, written with the purpose of being introduced to vue.js. We are currently under construction - check back later!
 
+## Mockup
+![gulp project mockup](Mockup.png)
+
+
 ## Project setup
 Install dependencies
 ```
